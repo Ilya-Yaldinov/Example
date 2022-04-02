@@ -1,0 +1,15 @@
+C:\Users\ilyay\RiderProjects\ЗаданиеНаПаре\ЗаданиеНаПаре\bin\Debug\net6.0\ЗаданиеНаПаре.exe
+C:\Users\ilyay\RiderProjects\ЗаданиеНаПаре\ЗаданиеНаПаре\bin\Debug\net6.0\ЗаданиеНаПаре.deps.json
+C:\Users\ilyay\RiderProjects\ЗаданиеНаПаре\ЗаданиеНаПаре\bin\Debug\net6.0\ЗаданиеНаПаре.runtimeconfig.json
+C:\Users\ilyay\RiderProjects\ЗаданиеНаПаре\ЗаданиеНаПаре\bin\Debug\net6.0\ЗаданиеНаПаре.dll
+C:\Users\ilyay\RiderProjects\ЗаданиеНаПаре\ЗаданиеНаПаре\bin\Debug\net6.0\ref\ЗаданиеНаПаре.dll
+C:\Users\ilyay\RiderProjects\ЗаданиеНаПаре\ЗаданиеНаПаре\bin\Debug\net6.0\ЗаданиеНаПаре.pdb
+C:\Users\ilyay\RiderProjects\ЗаданиеНаПаре\ЗаданиеНаПаре\obj\Debug\net6.0\ЗаданиеНаПаре.csproj.AssemblyReference.cache
+C:\Users\ilyay\RiderProjects\ЗаданиеНаПаре\ЗаданиеНаПаре\obj\Debug\net6.0\ЗаданиеНаПаре.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyay\RiderProjects\ЗаданиеНаПаре\ЗаданиеНаПаре\obj\Debug\net6.0\ЗаданиеНаПаре.AssemblyInfoInputs.cache
+C:\Users\ilyay\RiderProjects\ЗаданиеНаПаре\ЗаданиеНаПаре\obj\Debug\net6.0\ЗаданиеНаПаре.AssemblyInfo.cs
+C:\Users\ilyay\RiderProjects\ЗаданиеНаПаре\ЗаданиеНаПаре\obj\Debug\net6.0\ЗаданиеНаПаре.csproj.CoreCompileInputs.cache
+C:\Users\ilyay\RiderProjects\ЗаданиеНаПаре\ЗаданиеНаПаре\obj\Debug\net6.0\ЗаданиеНаПаре.dll
+C:\Users\ilyay\RiderProjects\ЗаданиеНаПаре\ЗаданиеНаПаре\obj\Debug\net6.0\ref\ЗаданиеНаПаре.dll
+C:\Users\ilyay\RiderProjects\ЗаданиеНаПаре\ЗаданиеНаПаре\obj\Debug\net6.0\ЗаданиеНаПаре.pdb
+C:\Users\ilyay\RiderProjects\ЗаданиеНаПаре\ЗаданиеНаПаре\obj\Debug\net6.0\ЗаданиеНаПаре.genruntimeconfig.cache
